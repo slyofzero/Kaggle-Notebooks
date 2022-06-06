@@ -1,7 +1,7 @@
 # Weather Prediction
 
 ## About the notebook
-
+The notebook consists code in which I try to create a model that can predict the in Szeged, Hungary.
 
 ## About Dataset
 ### Context
